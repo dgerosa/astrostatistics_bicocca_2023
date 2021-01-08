@@ -1,2 +1,9 @@
-# astr_8070_s21
-Spring 2021 course materials for ASTR 8070: Astrostatistics
+# ASTR 8070, Spring 2021, Vanderbilt University
+
+---
+
+Astrostatistics
+
+---
+
+[Stephen R. Taylor](https://my.vanderbilt.edu/stephentaylor/) 
