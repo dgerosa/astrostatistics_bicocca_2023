@@ -13,3 +13,4 @@
 * Lecture 2 (01/28/2021): [Introduction To Probability & Statistics: I](lectures/Lecture_2.ipynb)
 * Homework 1 (due 01/30/2021 @ 11.59pm CST) [vu_astr8070_s21_hw1.ipynb](coursework/homeworks/vu_astr8070_s21_hw1.ipynb)
 * Lecture 3 (02/02/2021): [Introduction To Probability & Statistics: II](lectures/Lecture_3.ipynb)
+* Lecture 4 (02/04/2021): [Introduction To Probability & Statistics: III](lectures/Lecture_4.ipynb)
