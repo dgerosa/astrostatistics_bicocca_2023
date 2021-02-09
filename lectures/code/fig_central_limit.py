@@ -31,7 +31,7 @@ from scipy.stats import norm
 # you can set usetex to False.
 if "setup_text_plots" not in globals():
     from astroML.plotting import setup_text_plots
-setup_text_plots(fontsize=8, usetex=True)
+setup_text_plots(fontsize=8, usetex=False)
 
 #------------------------------------------------------------
 # Generate the uniform samples
