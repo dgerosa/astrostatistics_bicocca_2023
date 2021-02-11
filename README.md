@@ -16,3 +16,4 @@
 * Lecture 4 (02/04/2021): [Introduction To Probability & Statistics: III](lectures/Lecture_4.ipynb)
 * Homework 2 (due 02/12/2021 @ 11.59pm CST) [vu_astr8070_s21_hw2.ipynb](coursework/homeworks/vu_astr8070_s21_hw2.ipynb)
 * Lecture 5 (02/09/2021): [Classical/Frequentist Statistical Inference: I](lectures/Lecture_5.ipynb)
+* Lecture 6 (02/11/2021): [Classical/Frequentist Statistical Inference: II](lectures/Lecture_6.ipynb)
