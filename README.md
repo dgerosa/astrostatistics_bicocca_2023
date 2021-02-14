@@ -17,3 +17,4 @@
 * Homework 2 (due 02/12/2021 @ 11.59pm CST) [vu_astr8070_s21_hw2.ipynb](coursework/homeworks/vu_astr8070_s21_hw2.ipynb)
 * Lecture 5 (02/09/2021): [Classical/Frequentist Statistical Inference: I](lectures/Lecture_5.ipynb)
 * Lecture 6 (02/11/2021): [Classical/Frequentist Statistical Inference: II](lectures/Lecture_6.ipynb)
+* Homework 3 (due 02/19/2021 @ 11.59pm CST) [vu_astr8070_s21_hw3.ipynb](coursework/homeworks/vu_astr8070_s21_hw3.ipynb)
