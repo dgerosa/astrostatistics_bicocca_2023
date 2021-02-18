@@ -19,3 +19,4 @@
 * Lecture 6 (02/11/2021): [Classical/Frequentist Statistical Inference: II](lectures/Lecture_6.ipynb)
 * Homework 3 (due 02/19/2021 @ 11.59pm CST) [vu_astr8070_s21_hw3.ipynb](coursework/homeworks/vu_astr8070_s21_hw3.ipynb)
 * Lecture 7 (02/16/2021): [Classical/Frequentist Statistical Inference: III](lectures/Lecture_7.ipynb)
+* Lecture 8 (02/18/2021): [Bayesian Statistical Inference: I](lectures/Lecture_8.ipynb)
