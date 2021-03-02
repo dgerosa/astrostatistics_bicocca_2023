@@ -20,3 +20,5 @@
 * Lecture 8 (02/18/2021): [Bayesian Statistical Inference: I](lectures/Lecture_8.ipynb)
 * Reading Day (02/23/2021)
 * Lecture 9 (02/25/2021): [Bayesian Statistical Inference: II](lectures/Lecture_9.ipynb)
+* Homework 4 (due 03/05/2021 @ 11.59pm CST) [vu_astr8070_s21_hw4.ipynb](coursework/homeworks/vu_astr8070_s21_hw4.ipynb)
+* Lecture 10 (03/02/2021): [Bayesian Statistical Inference: III](lectures/Lecture_10.ipynb)
