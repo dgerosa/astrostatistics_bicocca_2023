@@ -23,3 +23,4 @@
 * Homework 4 (due 03/05/2021 @ 11.59pm CST) [vu_astr8070_s21_hw4.ipynb](coursework/homeworks/vu_astr8070_s21_hw4.ipynb)
 * Lecture 10 (03/02/2021): [Bayesian Statistical Inference: III](lectures/Lecture_10.ipynb)
 * Lecture 11 (03/04/2021): [Bayesian Statistical Inference: IV](lectures/Lecture_11.ipynb)
+* Lecture 12 (03/09/2021): [Bayesian Statistical Inference: V](lectures/Lecture_12.ipynb)
