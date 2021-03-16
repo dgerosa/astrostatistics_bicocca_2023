@@ -25,3 +25,4 @@
 * Lecture 11 (03/04/2021): [Bayesian Statistical Inference: IV](lectures/Lecture_11.ipynb)
 * Lecture 12 (03/09/2021): [Bayesian Statistical Inference: V](lectures/Lecture_12.ipynb)
 * Lecture 13 (03/11/2021): [Data Mining & Machine Learning: Intro to Scikit-Learn](lectures/Lecture_13.ipynb)
+* Lecture 14 (03/16/2021): [Density Estimation & Clustering](lectures/Lecture_14.ipynb)
