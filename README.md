@@ -26,3 +26,5 @@
 * Lecture 12 (03/09/2021): [Bayesian Statistical Inference: V](lectures/Lecture_12.ipynb)
 * Lecture 13 (03/11/2021): [Data Mining & Machine Learning: Intro to Scikit-Learn](lectures/Lecture_13.ipynb)
 * Lecture 14 (03/16/2021): [Density Estimation & Clustering](lectures/Lecture_14.ipynb)
+* No Class (03/18/2021)
+* Homework 5 (due 03/27/2021 @ 11.59pm CST) [vu_astr8070_s21_hw5.ipynb](coursework/homeworks/vu_astr8070_s21_hw5.ipynb)
