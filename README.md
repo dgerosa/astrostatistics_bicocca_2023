@@ -29,3 +29,4 @@
 * No Class (03/18/2021)
 * Homework 5 (due 03/27/2021 @ 11.59pm CST) [vu_astr8070_s21_hw5.ipynb](coursework/homeworks/vu_astr8070_s21_hw5.ipynb)
 * Lecture 15 (03/23/2021): [Dimensional Reduction: I](lectures/Lecture_15.ipynb)
+* Lecture 16 (03/25/2021): [Dimensional Reduction: II](lectures/Lecture_16.ipynb)
