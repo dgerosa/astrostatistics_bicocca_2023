@@ -31,3 +31,4 @@
 * Lecture 15 (03/23/2021): [Dimensional Reduction: I](lectures/Lecture_15.ipynb)
 * Lecture 16 (03/25/2021): [Dimensional Reduction: II](lectures/Lecture_16.ipynb)
 * Homework 6 (due 04/03/2021 @ 11.59pm CST) [vu_astr8070_s21_hw6.ipynb](coursework/homeworks/vu_astr8070_s21_hw6.ipynb)
+* Lecture 17 (03/30/2021): [Regression: I](lectures/Lecture_17.ipynb)
