@@ -34,3 +34,5 @@
 * Lecture 17 (03/30/2021): [Regression: I](lectures/Lecture_17.ipynb)
 * Lecture 18 (04/01/2021): [Regression: II](lectures/Lecture_18.ipynb)
 * Homework 7 (due 04/10/2021 @ 11.59pm CDT) [vu_astr8070_s21_hw7.ipynb](coursework/homeworks/vu_astr8070_s21_hw7.ipynb)
+* Lecture 19 (04/06/2021): [Classification: I](lectures/Lecture_19.ipynb)
+* Reading Day (04/08/2021)
