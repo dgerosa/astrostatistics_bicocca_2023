@@ -36,3 +36,5 @@
 * Homework 7 (due 04/10/2021 @ 11.59pm CDT) [vu_astr8070_s21_hw7.ipynb](coursework/homeworks/vu_astr8070_s21_hw7.ipynb)
 * Lecture 19 (04/06/2021): [Classification: I](lectures/Lecture_19.ipynb)
 * Reading Day (04/08/2021)
+* Homework 8 (due 04/17/2021 @ 11.59pm CDT) [vu_astr8070_s21_hw8.ipynb](coursework/homeworks/vu_astr8070_s21_hw8.ipynb)
+* Lecture 20 (04/13/2021): [Classification: II](lectures/Lecture_20.ipynb)
