@@ -39,3 +39,5 @@
 * Homework 8 (due 04/17/2021 @ 11.59pm CDT) [vu_astr8070_s21_hw8.ipynb](coursework/homeworks/vu_astr8070_s21_hw8.ipynb)
 * Lecture 20 (04/13/2021): [Classification: II](lectures/Lecture_20.ipynb)
 * Lecture 21 (04/15/2021): [Deep Learning: I](lectures/Lecture_21.ipynb)
+* Homework 9 (due 04/24/2021 @ 11.59pm CDT) [vu_astr8070_s21_hw9.ipynb](coursework/homeworks/vu_astr8070_s21_hw9.ipynb)
+* Lecture 22 (04/20/2021): [Deep Learning: II](lectures/Lecture_22.ipynb)
