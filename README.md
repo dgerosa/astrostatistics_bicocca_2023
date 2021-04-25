@@ -42,3 +42,4 @@
 * Homework 9 (due 04/24/2021 @ 11.59pm CDT) [vu_astr8070_s21_hw9.ipynb](coursework/homeworks/vu_astr8070_s21_hw9.ipynb)
 * Lecture 22 (04/20/2021): [Deep Learning: II](lectures/Lecture_22.ipynb)
 * Lecture 23 (04/22/2021): [Time Series Analysis: I](lectures/Lecture_23.ipynb)
+* Lecture 24 (04/27/2021): [Time Series Analysis: II](lectures/Lecture_24.ipynb)
