@@ -4,6 +4,7 @@
 [Stephen R. Taylor](https://my.vanderbilt.edu/stephentaylor/) 
 
 ## [Syllabus](ASTR8070_Syllabus_Spring2021.pdf)
+## [Concept Map](ASTR8070__ConceptMap.pdf)
 
 ## Schedule
 
