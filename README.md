@@ -8,7 +8,7 @@ University of Milano-Bicocca, 2022
 
 ## Schedule
 
-* Lecture 1: [Introduction To Class](lectures/01_Introduction.ipynb)
+* Lecture 1: [Introduction](lectures/01_Introduction.ipynb)
 
 
 
