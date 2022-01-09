@@ -68,28 +68,26 @@ To this end, students are required to come to classes with a computer or any dev
 
 The **main textbook** we will be using is:
 
-_["Statistics, Data Mining, and Machine Learning in Astronomy"](https://press.princeton.edu/books/hardcover/9780691198309/statistics-data-mining-and-machine-learning-in-astronomy), Željko, Andrew, Jacob, and Gray. Princeton University Press, 2012._
+["Statistics, Data Mining, and Machine Learning in Astronomy"](https://press.princeton.edu/books/hardcover/9780691198309/statistics-data-mining-and-machine-learning-in-astronomy), Željko, Andrew, Jacob, and Gray. Princeton University Press, 2012.
 
 It's a wonderful book that I keep on referring to in my research. The library has a few copies. What I really like about that book is that they provide the code behind each single figure: [astroml.org/book\_figures](https://www.astroml.org/book_figures/). The best way to approach these topics is to study the introduction on the book, then grab the code and try to play with it.  Make sure you get the updated edition of the book (that's the one with a black cover, not orange) because all the examples have been updated to python 3.   
 
 There are many **other good resources** in astrostatistics, here is a partial list. Some of them are free.  
 
-*   _["Statistical Data Analysis"](https://global.oup.com/academic/product/statistical-data-analysis-9780198501558?cc=fr&lang=en&), Cowan. Oxford Science Publications, 1997_
-*   _["Data Analysis: A Bayesian Tutorial", Sivia and Skilling. Oxford](https://global.oup.com/academic/product/data-analysis-9780198568322?cc=fr&lang=en&) Science Publications, 2006_
-*   _["Bayesian Data Analysis",](http://www.stat.columbia.edu/~gelman/book/) Gelman, Carlin, Stern, Dunson, Vehtari, and Rubin. Chapman & Hall, 2013. Free!_
-*   _["Python Data Science Handbook",](https://jakevdp.github.io/PythonDataScienceHandbook/) VanderPlas. O'Reilly Media, 2016. Free!_
-*   _["Practical Statistics for Astronomers"](https://www.cambridge.org/core/books/practical-statistics-for-astronomers/CEB9D5F985F062BAD67E7219B96A4CD6), Wall and Jenkins. Cambridge University Press, 2003_
-*   _["Bayesian Logical Data Analysis for the Physical Sciences",](https://www.cambridge.org/core/books/bayesian-logical-data-analysis-for-the-physical-sciences/09E9A95DAE275F5B005676C71B542598) Gregory. Cambridge University Press, 2005_
-*   _["Modern Statistical Methods For Astronomy" Feigelson and Babu.](https://www.cambridge.org/core/books/modern-statistical-methods-for-astronomy/941AE392A553D68DD7B02491BB66DDEC) Cambridge University Press, 2012_
-*   _["Information theory, inference, and learning algorithms"](https://www.inference.org.uk/mackay/itila/book.html) MacKay. Cambridge University Press, 2003. Free!  
-    _
-*   _“Data analysis recipes". These free are chapters of books that is not yet finished by Hogg et al._ 
-    
-    *   _["Choosing the binning for a histogram"](https://arxiv.org/abs/0807.4820) \[arXiv:_0807.4820\]__ 
-    *   [_"__Fitting a model to data_](https://arxiv.org/abs/1008.4686) _["](https://arxiv.org/abs/1008.4686) _\[arXiv:__1008.4686_\]___
-    *   _["Probability calculus for inference"](https://arxiv.org/abs/1205.4446) \[arXiv:_1205.4446_\]_
-    *   _["Using Markov Chain Monte Carlo"](https://arxiv.org/abs/1710.06068) _\[arXiv:__1710.06068__\]__
-    *   _["Products of multivariate Gaussians in Bayesian inferences"](https://arxiv.org/abs/2005.14199) \[arXiv:2005.14199\]_
+- ["Statistical Data Analysis"](https://global.oup.com/academic/product/statistical-data-analysis-9780198501558?cc=fr&lang=en&), Cowan. Oxford Science Publications, 1997.
+- ["Data Analysis: A Bayesian Tutorial", Sivia and Skilling. Oxford](https://global.oup.com/academic/product/data-analysis-9780198568322?cc=fr&lang=en&) Science Publications, 2006.
+- ["Bayesian Data Analysis",](http://www.stat.columbia.edu/~gelman/book/) Gelman, Carlin, Stern, Dunson, Vehtari, and Rubin. Chapman & Hall, 2013. Free!
+- ["Python Data Science Handbook",](https://jakevdp.github.io/PythonDataScienceHandbook/) VanderPlas. O'Reilly Media, 2016. Free!
+- ["Practical Statistics for Astronomers"](https://www.cambridge.org/core/books/practical-statistics-for-astronomers/CEB9D5F985F062BAD67E7219B96A4CD6), Wall and Jenkins. Cambridge University Press, 2003.
+- ["Bayesian Logical Data Analysis for the Physical Sciences",](https://www.cambridge.org/core/books/bayesian-logical-data-analysis-for-the-physical-sciences/09E9A95DAE275F5B005676C71B542598) Gregory. Cambridge University Press, 2005.
+- ["Modern Statistical Methods For Astronomy" Feigelson and Babu.](https://www.cambridge.org/core/books/modern-statistical-methods-for-astronomy/941AE392A553D68DD7B02491BB66DDEC) Cambridge University Press, 2012.
+- ["Information theory, inference, and learning algorithms"](https://www.inference.org.uk/mackay/itila/book.html) MacKay. Cambridge University Press, 2003. Free!  
+- “Data analysis recipes". These free are chapters of books that is not yet finished by Hogg et al.
+    - ["Choosing the binning for a histogram"](https://arxiv.org/abs/0807.4820) [arXiv:0807.4820]
+    - ["Fitting a model to data](https://arxiv.org/abs/1008.4686) [arXiv:1008.4686]
+    - ["Probability calculus for inference"](https://arxiv.org/abs/1205.4446) [arXiv:1205.4446]
+    - ["Using Markov Chain Monte Carlo"](https://arxiv.org/abs/1710.06068) [arXiv:1710.06068]
+    - ["Products of multivariate Gaussians in Bayesian inferences"](https://arxiv.org/abs/2005.14199) [arXiv:2005.14199]
     
 
 
