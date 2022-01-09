@@ -1,10 +1,10 @@
-# ASTR 8070, Spring 2021, Vanderbilt University
-# Astrostatistics
+# Astrostatistics 
 
-[Stephen R. Taylor](https://my.vanderbilt.edu/stephentaylor/) 
+University of Milano-Bicocca, 2022
 
-## [Syllabus](ASTR8070_Syllabus_Spring2021.pdf)
-## [Concept Map](ASTR8070__ConceptMap.pdf)
+[Davide Gerosa](https://davidegerosa.com/)  
+
+## [e-learning page](https://elearning.unimib.it/course/view.php?id=35298)
 
 ## Schedule
 
@@ -47,3 +47,7 @@
 * Homework 7 (due 04/10/2021 @ 11.59pm CDT) [vu_astr8070_s21_hw7.ipynb](coursework/homeworks/vu_astr8070_s21_hw7.ipynb)
 * Homework 8 (due 04/17/2021 @ 11.59pm CDT) [vu_astr8070_s21_hw8.ipynb](coursework/homeworks/vu_astr8070_s21_hw8.ipynb)
 * Homework 9 (due 04/24/2021 @ 11.59pm CDT) [vu_astr8070_s21_hw9.ipynb](coursework/homeworks/vu_astr8070_s21_hw9.ipynb)
+
+
+
+## [Useful concept map](ASTR8070__ConceptMap.pdf) by Steve Taylor
