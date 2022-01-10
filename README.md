@@ -22,6 +22,14 @@ The use of statistics is ubiquitous in astronomy and astrophysics. Modern advanc
 Data mining and machine learning are computational subjects. One does not understand how to treat scientific data by reading equations on the blackboard: you will need to get your hands dirty (and this is the fun part!). **Students are required to come to classes with a computer** or any device where you can code on (larger than a smartphone I would say...). Each class will pair theoretical explanations to hands-on exercises and demonstrations. These are the key content of the course, so please engage with them as much a possible. 
 
 
+## Conceptual map of the class
+Credits: S. Taylor (Vanderbilt)
+
+![Steve_map](https://user-images.githubusercontent.com/7237041/148847588-425431af-7285-403a-844b-ed9d2daf0c9f.png)
+
+
+
+
 ## Textbook and Resources
 
 The **main textbook** we will be using is:
@@ -69,7 +77,5 @@ This class draws heavily from many others that came before me. Credit goes to:
 - Jo Bovy (University of Toronto): [astro.utoronto.ca/~bovy/teaching.html](http://astro.utoronto.ca/~bovy/teaching.html).
 - Thomas Wiecki (PyMC Labs): [twiecki.github.io/blog/2015/11/10/mcmc-sampling](http://twiecki.github.io/blog/2015/11/10/mcmc-sampling).
 
-
-### [Useful concept map](ASTR8070__ConceptMap.pdf) by Steve Taylor
 
 
