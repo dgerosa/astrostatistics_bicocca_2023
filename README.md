@@ -1,3 +1,6 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dgerosa/astrostatistics_bicocca_2022/HEAD)
+
+
 # Astrostatistics 
 
 University of Milano-Bicocca, 2022
