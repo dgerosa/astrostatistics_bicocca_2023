@@ -8,7 +8,7 @@ University of Milano-Bicocca, 2022
 
 ## Schedule
 
-* Lecture 1: [Introduction To Class](lectures/01_Introduction.ipynb)
+* Lecture 1: [Introduction](lectures/01_Introduction.ipynb)
 
 
 
@@ -18,9 +18,7 @@ The use of statistics is ubiquitous in astronomy and astrophysics. Modern advanc
 
 ## :exclamation: Important
 
-Data mining and machine learning are computational subjects. One does not understand how to treat scientific data by reading equations on the blackboard: you will need to get your hands dirty (and this is the fun part!). 
-
-To this end, students are required to come to classes with a computer or any device where you can code on (larger than a smartphone I would say...). Each class will pair theoretical explanations to hands-on exercises and demonstrations. These are the key content of the course, so I highly encourage you to engage with them as much a possible. 
+Data mining and machine learning are computational subjects. One does not understand how to treat scientific data by reading equations on the blackboard: you will need to get your hands dirty (and this is the fun part!). **Students are required to come to classes with a computer** or any device where you can code on (larger than a smartphone I would say...). Each class will pair theoretical explanations to hands-on exercises and demonstrations. These are the key content of the course, so please engage with them as much a possible. 
 
 
 ## Textbook and Resources
@@ -60,15 +58,15 @@ We will make heavy usage of the python programming language. If you need to refr
 
 This class draws heavily from many others that came before me. Credit goes to:
 
-- Stephen Taylor (Vanderbilt University): [https://github.com/VanderbiltAstronomy/astr_8070_s21](github.com/VanderbiltAstronomy/astr_8070_s21).
-- Gordon Richards (Drexel University): [https://github.com/gtrichards/PHYS_440_540](github.com/gtrichards/PHYS_440_540).
-- Jake Vanderplas (University of Washington): [https://github.com/jakevdp/ESAC-stats-2014](github.com/jakevdp/ESAC-stats-2014).
-- Zeljko Ivezic (University of Washington): [https://github.com/uw-astr-302-w18/astr-302-w18](github.com/uw-astr-302-w18/astr-302-w18).
-- Andy Connolly (University of Washington): [http://cadence.lsst.org/introAstroML/](cadence.lsst.org/introAstroML).
-- Karen Leighly (University of Oklahoma): [http://seminar.ouml.org/](seminar.ouml.org).
-- Adam Miller (Northwestern University): [https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/](github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions).
-- Jo Bovy (University of Toronto): [http://astro.utoronto.ca/~bovy/teaching.html](astro.utoronto.ca/~bovy/teaching.html).
-- Thomas Wiecki (PyMC Labs): [http://twiecki.github.io/blog/2015/11/10/mcmc-sampling](twiecki.github.io/blog/2015/11/10/mcmc-sampling).
+- Stephen Taylor (Vanderbilt University): [github.com/VanderbiltAstronomy/astr_8070_s21][github.com/VanderbiltAstronomy/astr_8070_s21].
+- Gordon Richards (Drexel University): [github.com/gtrichards/PHYS_440_540](https://github.com/gtrichards/PHYS_440_540).
+- Jake Vanderplas (University of Washington): [github.com/jakevdp/ESAC-stats-2014](https://github.com/jakevdp/ESAC-stats-2014).
+- Zeljko Ivezic (University of Washington): [github.com/uw-astr-302-w18/astr-302-w18](https://github.com/uw-astr-302-w18/astr-302-w18).
+- Andy Connolly (University of Washington): [cadence.lsst.org/introAstroML/](http://cadence.lsst.org/introAstroML).
+- Karen Leighly (University of Oklahoma): [seminar.ouml.org/](http://seminar.ouml.org).
+- Adam Miller (Northwestern University): [github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions).
+- Jo Bovy (University of Toronto): [astro.utoronto.ca/~bovy/teaching.html](http://astro.utoronto.ca/~bovy/teaching.html).
+- Thomas Wiecki (PyMC Labs): [twiecki.github.io/blog/2015/11/10/mcmc-sampling](http://twiecki.github.io/blog/2015/11/10/mcmc-sampling).
 
 
 ### [Useful concept map](ASTR8070__ConceptMap.pdf) by Steve Taylor
