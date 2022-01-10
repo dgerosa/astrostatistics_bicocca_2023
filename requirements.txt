@@ -1,0 +1,7 @@
+numpy
+scipy
+matplotlib
+astroML
+sklearn
+astropy
+corner
