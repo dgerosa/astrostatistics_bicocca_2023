@@ -1,11 +1,16 @@
+# Astrostatistics 
+
+[Davide Gerosa](www.davidegerosa.com)  - davide.gerosa@unimib.it  
+University of Milano-Bicocca, 2022.
+
+
+
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dgerosa/astrostatistics_bicocca_2022/HEAD)
 [![elearning](https://badgen.net/badge/e-learning/open/green)](https://elearning.unimib.it/course/view.php?id=35298)
 
 
 
-# Astrostatistics 
-
-University of Milano-Bicocca, 2022. [Davide Gerosa](https://davidegerosa.com/) (davide.gerosa@unimib.it)
 
 ## Schedule
 
