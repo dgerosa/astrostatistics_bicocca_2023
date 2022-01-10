@@ -1,10 +1,11 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dgerosa/astrostatistics_bicocca_2022/HEAD)
+[![elearning](https://badgen.net/badge/e-learning/open/green)](https://elearning.unimib.it/course/view.php?id=35298)
+
+
+
 # Astrostatistics 
 
-University of Milano-Bicocca, 2022
-
-[Davide Gerosa](https://davidegerosa.com/)  
-
-## [e-learning page](https://elearning.unimib.it/course/view.php?id=35298)
+University of Milano-Bicocca, 2022. [Davide Gerosa](https://davidegerosa.com/) (davide.gerosa@unimib.it)
 
 ## Schedule
 
@@ -19,6 +20,14 @@ The use of statistics is ubiquitous in astronomy and astrophysics. Modern advanc
 ## :exclamation: Important
 
 Data mining and machine learning are computational subjects. One does not understand how to treat scientific data by reading equations on the blackboard: you will need to get your hands dirty (and this is the fun part!). **Students are required to come to classes with a computer** or any device where you can code on (larger than a smartphone I would say...). Each class will pair theoretical explanations to hands-on exercises and demonstrations. These are the key content of the course, so please engage with them as much a possible. 
+
+
+## Conceptual map of the class
+Credits: S. Taylor (Vanderbilt)
+
+![Steve_map](https://user-images.githubusercontent.com/7237041/148847588-425431af-7285-403a-844b-ed9d2daf0c9f.png)
+
+
 
 
 ## Textbook and Resources
@@ -58,7 +67,7 @@ We will make heavy usage of the python programming language. If you need to refr
 
 This class draws heavily from many others that came before me. Credit goes to:
 
-- Stephen Taylor (Vanderbilt University): [github.com/VanderbiltAstronomy/astr_8070_s21][github.com/VanderbiltAstronomy/astr_8070_s21].
+- Stephen Taylor (Vanderbilt University), friend and collaborator: [github.com/VanderbiltAstronomy/astr_8070_s21](github.com/VanderbiltAstronomy/astr_8070_s21).
 - Gordon Richards (Drexel University): [github.com/gtrichards/PHYS_440_540](https://github.com/gtrichards/PHYS_440_540).
 - Jake Vanderplas (University of Washington): [github.com/jakevdp/ESAC-stats-2014](https://github.com/jakevdp/ESAC-stats-2014).
 - Zeljko Ivezic (University of Washington): [github.com/uw-astr-302-w18/astr-302-w18](https://github.com/uw-astr-302-w18/astr-302-w18).
@@ -68,7 +77,5 @@ This class draws heavily from many others that came before me. Credit goes to:
 - Jo Bovy (University of Toronto): [astro.utoronto.ca/~bovy/teaching.html](http://astro.utoronto.ca/~bovy/teaching.html).
 - Thomas Wiecki (PyMC Labs): [twiecki.github.io/blog/2015/11/10/mcmc-sampling](http://twiecki.github.io/blog/2015/11/10/mcmc-sampling).
 
-
-### [Useful concept map](ASTR8070__ConceptMap.pdf) by Steve Taylor
 
 
