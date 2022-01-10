@@ -3,9 +3,7 @@
 
 # Astrostatistics 
 
-University of Milano-Bicocca, 2022
-
-[Davide Gerosa](https://davidegerosa.com/)  
+University of Milano-Bicocca, 2022. [Davide Gerosa](https://davidegerosa.com/) (davide.gerosa@unimib.it)
 
 ## [e-learning page](https://elearning.unimib.it/course/view.php?id=35298)
 
