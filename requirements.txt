@@ -5,3 +5,4 @@ astroML
 sklearn
 astropy
 corner
+tqdm
