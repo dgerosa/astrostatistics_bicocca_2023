@@ -28,10 +28,10 @@ Data mining and machine learning are computational subjects. One does not unders
 
 
 ## Conceptual map of the class
-Credits: S. Taylor (Vanderbilt)
 
 ![Steve_map](https://user-images.githubusercontent.com/7237041/148847588-425431af-7285-403a-844b-ed9d2daf0c9f.png)
 
+Credits: [Steve Taylor](https://stevertaylor.github.io/) (Vanderbilt)
 
 
 
