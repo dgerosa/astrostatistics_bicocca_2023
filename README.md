@@ -16,8 +16,8 @@ University of Milano-Bicocca, 2022.
 
 1) [Introduction](lectures/L01_introduction.ipynb)
 2) [Probability and Statistics I](lectures/L02_probability_and_statistics.ipynb)
-3) [Probability and Statistics II](lectures/L02_probability_and_statistics.ipynb)
-3) [Probability and Statistics III](lectures/L02_probability_and_statistics.ipynb)
+3) [Probability and Statistics II](lectures/L03_probability_and_statistics.ipynb)
+3) [Probability and Statistics III](lectures/L04_probability_and_statistics.ipynb)
 
 
 
