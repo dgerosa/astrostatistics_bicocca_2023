@@ -49,7 +49,7 @@ It's a wonderful book that I keep on referring to in my research. The library h
 There are many **other good resources** in astrostatistics, here is a partial list. Some of them are free.  
 
 - ["Statistical Data Analysis"](https://global.oup.com/academic/product/statistical-data-analysis-9780198501558?cc=fr&lang=en&), Cowan. Oxford Science Publications, 1997.
-- ["Data Analysis: A Bayesian Tutorial", Sivia and Skilling. Oxford](https://global.oup.com/academic/product/data-analysis-9780198568322?cc=fr&lang=en&) Science Publications, 2006.
+- ["Data Analysis: A Bayesian Tutorial"](https://global.oup.com/academic/product/data-analysis-9780198568322?cc=fr&lang=en&), Sivia and Skilling. Oxford Science Publications, 2006.
 - ["Bayesian Data Analysis",](http://www.stat.columbia.edu/~gelman/book/) Gelman, Carlin, Stern, Dunson, Vehtari, and Rubin. Chapman & Hall, 2013. Free!
 - ["Python Data Science Handbook",](https://jakevdp.github.io/PythonDataScienceHandbook/) VanderPlas. O'Reilly Media, 2016. Free!
 - ["Practical Statistics for Astronomers"](https://www.cambridge.org/core/books/practical-statistics-for-astronomers/CEB9D5F985F062BAD67E7219B96A4CD6), Wall and Jenkins. Cambridge University Press, 2003.
@@ -69,7 +69,7 @@ We will make heavy usage of the python programming language. If you need to refr
 
 - ["Lectures on scientific computing with Python"](https://github.com/jrjohansson/scientific-python-lectures), R. Johansson et al.  
 - [Python Programming for Scientists"](https://astrofrog.github.io/py4sci/), T. Robitaille et al.
-- ["Learning Scientific Programming with Python"](https://www.cambridge.org/core/books/learning-scientific-programming-with-python/3D264483BC7B380A3059B3861C661237), Hill, Cambridge University Press, 2020. Supporting code: [scipython.com](https://scipython.com/)_
+- ["Learning Scientific Programming with Python"](https://www.cambridge.org/core/books/learning-scientific-programming-with-python/3D264483BC7B380A3059B3861C661237), Hill, Cambridge University Press, 2020. Supporting code: [scipython.com](https://scipython.com/).
 
 ## Credits
 
