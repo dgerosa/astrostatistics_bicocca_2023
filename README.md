@@ -15,10 +15,12 @@ University of Milano-Bicocca, 2022.
 ## Schedule
 
 1) [Introduction](lectures/L01_introduction.ipynb)
-2) [Probability and Statistics I](lectures/L02_probability_and_statistics.ipynb)
-3) [Probability and Statistics II](lectures/L03_probability_and_statistics.ipynb)
-3) [Probability and Statistics III](lectures/L04_probability_and_statistics.ipynb)
-
+2) [Probability and Statistics I](lectures/L02_probability.ipynb)
+3) [Probability and Statistics II](lectures/L03_probability.ipynb)
+3) [Probability and Statistics III](lectures/L04_probability.ipynb)
+4) [Classical/Frequentist Statistical Inference: I](lectures/L05_frequentist.ipynb)
+5) [Classical/Frequentist Statistical Inference: II](lectures/L06_frequentist.ipynb)
+6) [Classical/Frequentist Statistical Inference: III](lectures/L06_frequentist.ipynb)
 
 
 ## Aims
