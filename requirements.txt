@@ -6,3 +6,4 @@ sklearn
 astropy
 corner
 tqdm
+seaborn
