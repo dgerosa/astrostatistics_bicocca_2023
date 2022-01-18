@@ -20,7 +20,7 @@ University of Milano-Bicocca, 2022.
 3) [Probability and Statistics III](lectures/L04_probability.ipynb)
 4) [Classical/Frequentist Statistical Inference: I](lectures/L05_frequentist.ipynb)
 5) [Classical/Frequentist Statistical Inference: II](lectures/L06_frequentist.ipynb)
-6) [Classical/Frequentist Statistical Inference: III](lectures/L06_frequentist.ipynb)
+6) [Classical/Frequentist Statistical Inference: III](lectures/L07_frequentist.ipynb)
 
 
 ## Aims
