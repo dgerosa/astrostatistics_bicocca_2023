@@ -7,3 +7,8 @@ astropy
 corner
 tqdm
 seaborn
+emcee
+pymc3
+acor
+ptmcmcsampler
+chainconsumer
