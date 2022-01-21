@@ -26,10 +26,10 @@ The use of statistics is ubiquitous in astronomy and astrophysics. Modern advanc
 6) [Frequentist Statistical Inference: II](lectures/L06_frequentist.ipynb)
 7) [Frequentist Statistical Inference: III](lectures/L07_frequentist.ipynb)
 8) [Bayesian Statistical Inference: I](lectures/L08_bayesian.ipynb)
-9) [Bayesian Statistical Inference: I](lectures/L09_bayesian.ipynb)
-10) [Bayesian Statistical Inference: I](lectures/L10_bayesian.ipynb)
-11) [Bayesian Statistical Inference: I](lectures/L11_bayesian.ipynb)
-12) [Bayesian Statistical Inference: I](lectures/L12_bayesian.ipynb)
+9) [Bayesian Statistical Inference: II](lectures/L09_bayesian.ipynb)
+10) [Bayesian Statistical Inference: III](lectures/L10_bayesian.ipynb)
+11) [Bayesian Statistical Inference: IV](lectures/L11_bayesian.ipynb)
+12) [Bayesian Statistical Inference: V](lectures/L12_bayesian.ipynb)
 
 
 
