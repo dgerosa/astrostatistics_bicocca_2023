@@ -9,6 +9,4 @@ tqdm
 seaborn
 emcee
 pymc3
-git+https://github.com/dfm/acor@master
-ptmcmcsampler
 chainconsumer
