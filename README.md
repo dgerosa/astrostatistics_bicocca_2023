@@ -11,21 +11,27 @@ University of Milano-Bicocca, 2022.
 
 
 
+## Aims
 
-## Schedule
+The use of statistics is ubiquitous in astronomy and astrophysics. Modern advances are made possible by the application of increasingly sophisticated tools, often dubbed as "data mining", "machine learning", and "artificial intelligence". This class provides an introduction to (some of) these statistical techniques in a very practical fashion, pairing formal derivations to hands-on computational applications. Although examples will be taken almost exclusively from the realm of astronomy, this class is appropriate to all Physics students interested in machine learning.
+
+
+## Lectures
 
 1) [Introduction](lectures/L01_introduction.ipynb)
 2) [Probability and Statistics I](lectures/L02_probability.ipynb)
 3) [Probability and Statistics II](lectures/L03_probability.ipynb)
-3) [Probability and Statistics III](lectures/L04_probability.ipynb)
-4) [Classical/Frequentist Statistical Inference: I](lectures/L05_frequentist.ipynb)
-5) [Classical/Frequentist Statistical Inference: II](lectures/L06_frequentist.ipynb)
-6) [Classical/Frequentist Statistical Inference: III](lectures/L07_frequentist.ipynb)
+4) [Probability and Statistics III](lectures/L04_probability.ipynb)
+5) [Frequentist Statistical Inference: I](lectures/L05_frequentist.ipynb)
+6) [Frequentist Statistical Inference: II](lectures/L06_frequentist.ipynb)
+7) [Frequentist Statistical Inference: III](lectures/L07_frequentist.ipynb)
+8) [Bayesian Statistical Inference: I](lectures/L08_bayesian.ipynb)
+9) [Bayesian Statistical Inference: II](lectures/L09_bayesian.ipynb)
+10) [Bayesian Statistical Inference: III](lectures/L10_bayesian.ipynb)
+11) [Bayesian Statistical Inference: IV](lectures/L11_bayesian.ipynb)
+12) [Bayesian Statistical Inference: V](lectures/L12_bayesian.ipynb)
 
 
-## Aims
-
-The use of statistics is ubiquitous in astronomy and astrophysics. Modern advances are made possible by the application of increasingly sophisticated tools, often dubbed as "data mining", "machine learning", and "artificial intelligence". This class provides an introduction to (some of) these statistical techniques in a very practical fashion, pairing formal derivations to hands-on computational applications. Although examples will be taken almost exclusively from the realm of astronomy, this class is appropriate to all Physics students interested in machine learning.
 
 ## :exclamation: Important
 
