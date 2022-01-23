@@ -11,6 +11,5 @@ seaborn
 emcee
 pymc3
 chainconsumer
-UltraNest
 dynesty
 acor
