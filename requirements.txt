@@ -1,6 +1,7 @@
 numpy
 scipy
 matplotlib
+Python
 astroML
 sklearn
 astropy
@@ -10,3 +11,6 @@ seaborn
 emcee
 pymc3
 chainconsumer
+UltraNest
+dynesty
+acor
