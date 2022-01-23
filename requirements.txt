@@ -1,7 +1,7 @@
 numpy
 scipy
 matplotlib
-Python
+cython
 astroML
 sklearn
 astropy
@@ -13,3 +13,4 @@ pymc3
 chainconsumer
 UltraNest
 dynesty
+acor
