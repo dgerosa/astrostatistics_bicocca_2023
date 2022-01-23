@@ -12,4 +12,3 @@ emcee
 pymc3
 chainconsumer
 dynesty
-acor
