@@ -10,5 +10,4 @@ tqdm
 seaborn
 emcee
 pymc3
-chainconsumer
 dynesty
