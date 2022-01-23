@@ -13,4 +13,3 @@ pymc3
 chainconsumer
 UltraNest
 dynesty
-acor
