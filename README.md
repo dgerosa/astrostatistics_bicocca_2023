@@ -18,18 +18,18 @@ The use of statistics is ubiquitous in astronomy and astrophysics. Modern advanc
 
 ## Lectures
 
-1) [Introduction](lectures/L01_introduction.ipynb)
-2) [Probability and Statistics I](lectures/L02_probability.ipynb)
-3) [Probability and Statistics II](lectures/L03_probability.ipynb)
-4) [Probability and Statistics III](lectures/L04_probability.ipynb)
-5) [Frequentist Statistical Inference: I](lectures/L05_frequentist.ipynb)
-6) [Frequentist Statistical Inference: II](lectures/L06_frequentist.ipynb)
-7) [Frequentist Statistical Inference: III](lectures/L07_frequentist.ipynb)
-8) [Bayesian Statistical Inference: I](lectures/L08_bayesian.ipynb)
-9) [Bayesian Statistical Inference: II](lectures/L09_bayesian.ipynb)
-10) [Bayesian Statistical Inference: III](lectures/L10_bayesian.ipynb)
-11) [Bayesian Statistical Inference: IV](lectures/L11_bayesian.ipynb)
-12) [Bayesian Statistical Inference: V](lectures/L12_bayesian.ipynb)
+1) [Introduction](lectures/L01_introduction.ipynb). Data mining and machine learning. My research interests. IT setup. 
+2) [Probability and Statistics I](lectures/L02_probability.ipynb). Probability. Bayes' theorem. Random variables. *
+3) [Probability and Statistics II](lectures/L03_probability.ipynb). Monte Carlo integration. Descriptive statistics. Common distributions. *
+4) [Probability and Statistics III](lectures/L04_probability.ipynb). Central limit theorem. Multivariate pdfs. Correlation coefficients. Sampling from arbitrary pdfs. *
+5) [Frequentist Statistical Inference: I](lectures/L05_frequentist.ipynb). Frequentist vs Bayesian inference. Maximum likelihood estimation. Omoscedastic Gaussian data, Heteroscedastic Gaussian data, non Gaussian data. *
+6) [Frequentist Statistical Inference: II](lectures/L06_frequentist.ipynb). Maximum likelihood fit. Role of outliers. Goodness of fit. Model comparison. Gaussian mixtures. Boostrap and jackknife. 
+7) [Frequentist Statistical Inference: III](lectures/L07_frequentist.ipynb). Hypotesis testing. Comparing distributions, KS test. Histograms. Kernel density estimators. *
+8) [Bayesian Statistical Inference: I](lectures/L08_bayesian.ipynb). The Bayesian approach to statistics. Prior distributions. Credible regions. Parameter estimation examples (coin flip). Marginalization.
+9) [Bayesian Statistical Inference: II](lectures/L09_bayesian.ipynb) Parameter estimation examples (Gaussian data, background). Model comparison: odds ratio. Approximate model comparison.
+10) [Bayesian Statistical Inference: III](lectures/L10_bayesian.ipynb). Monte Carlo methods. Markov chains. Burn-in. Metropolis-Hastings algorithm.  *
+11) [Bayesian Statistical Inference: IV](lectures/L11_bayesian.ipynb). MCMC diagnostics. Traceplots. Autocorrelation lenght. Samplers in practice: emcee and PyMC3 *
+12) [Bayesian Statistical Inference: V](lectures/L12_bayesian.ipynb). Gibbs sampling. Conjugate priors. Evidence evaluation. Model selection. Nested sampling. Samplers in practice: dynesty. * 
 
 
 
