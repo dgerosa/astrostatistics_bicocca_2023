@@ -18,7 +18,7 @@ The use of statistics is ubiquitous in astronomy and astrophysics. Modern advanc
 
 ## Lectures
 
-1) [Introduction](lectures/L01_introduction.ipynb). Data mining and machine learning. My research interests. IT setup. 
+1) [Introduction I](lectures/L01_introduction.ipynb). Data mining and machine learning. My research interests. IT setup. 
 2) [Probability and Statistics I](lectures/L02_probability.ipynb). Probability. Bayes' theorem. Random variables. *
 3) [Probability and Statistics II](lectures/L03_probability.ipynb). Monte Carlo integration. Descriptive statistics. Common distributions. *
 4) [Probability and Statistics III](lectures/L04_probability.ipynb). Central limit theorem. Multivariate pdfs. Correlation coefficients. Sampling from arbitrary pdfs. *
@@ -30,7 +30,7 @@ The use of statistics is ubiquitous in astronomy and astrophysics. Modern advanc
 10) [Bayesian Statistical Inference: III](lectures/L10_bayesian.ipynb). Monte Carlo methods. Markov chains. Burn-in. Metropolis-Hastings algorithm.  *
 11) [Bayesian Statistical Inference: IV](lectures/L11_bayesian.ipynb). MCMC diagnostics. Traceplots. Autocorrelation lenght. Samplers in practice: emcee and PyMC3 *
 12) [Bayesian Statistical Inference: V](lectures/L12_bayesian.ipynb). Gibbs sampling. Conjugate priors. Evidence evaluation. Model selection. Nested sampling. Samplers in practice: dynesty. * 
-
+13) [Introduction II](lectures/L13_introduction.ipynb). Data mining and machine learning. Supervised and unsupervised learning. Overview of scikit-learn. Examples. *
 
 
 ## :exclamation: Important
