@@ -33,6 +33,8 @@ The use of statistics is ubiquitous in astronomy and astrophysics. Modern advanc
 13) [Introduction II](lectures/L13_introduction.ipynb). Data mining and machine learning. Supervised and unsupervised learning. Overview of scikit-learn. Examples. *
 
 
+\* = Time to get your hands dirty!
+
 ## :exclamation: Important
 
 Data mining and machine learning are computational subjects. One does not understand how to treat scientific data by reading equations on the blackboard: you will need to get your hands dirty (and this is the fun part!). **Students are required to come to classes with a computer** or any device where you can code on (larger than a smartphone I would say...). Each class will pair theoretical explanations to hands-on exercises and demonstrations. These are the key content of the course, so please engage with them as much a possible. 
