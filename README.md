@@ -86,7 +86,7 @@ We will make heavy usage of the python programming language. If you need to refr
 
 This class draws heavily from many others that came before me. Credit goes to:
 
-- Stephen Taylor (Vanderbilt University), friend and collaborator: [github.com/VanderbiltAstronomy/astr_8070_s21](github.com/VanderbiltAstronomy/astr_8070_s21).
+- Stephen Taylor (Vanderbilt University): [github.com/VanderbiltAstronomy/astr_8070_s21](github.com/VanderbiltAstronomy/astr_8070_s21).
 - Gordon Richards (Drexel University): [github.com/gtrichards/PHYS_440_540](https://github.com/gtrichards/PHYS_440_540).
 - Jake Vanderplas (University of Washington): [github.com/jakevdp/ESAC-stats-2014](https://github.com/jakevdp/ESAC-stats-2014).
 - Zeljko Ivezic (University of Washington): [github.com/uw-astr-302-w18/astr-302-w18](https://github.com/uw-astr-302-w18/astr-302-w18).
