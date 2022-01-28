@@ -82,7 +82,7 @@ We will make heavy usage of the python programming language. If you need to refr
 - [Python Programming for Scientists"](https://astrofrog.github.io/py4sci/), T. Robitaille et al.
 - ["Learning Scientific Programming with Python"](https://www.cambridge.org/core/books/learning-scientific-programming-with-python/3D264483BC7B380A3059B3861C661237), Hill, Cambridge University Press, 2020. Supporting code: [scipython.com](https://scipython.com/).
 
-## Credits
+## A huge thanks to...
 
 This class draws heavily from many others that came before me. Credit goes to:
 
