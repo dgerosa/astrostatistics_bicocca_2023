@@ -31,6 +31,7 @@ The use of statistics is ubiquitous in astronomy and astrophysics. Modern advanc
 11) [Bayesian Statistical Inference: IV](lectures/L11_bayesian.ipynb). MCMC diagnostics. Traceplots. Autocorrelation lenght. Samplers in practice: emcee and PyMC3 *
 12) [Bayesian Statistical Inference: V](lectures/L12_bayesian.ipynb). Gibbs sampling. Conjugate priors. Evidence evaluation. Model selection. Nested sampling. Samplers in practice: dynesty. * 
 13) [Introduction II](lectures/L13_introduction.ipynb). Data mining and machine learning. Supervised and unsupervised learning. Overview of scikit-learn. Examples. *
+14) [Density Estimation & Clustering](lectures/L14_clustering.ipynb). Parametric vs non-parametric density estimation. Kernel density estimation. Nearest-Neighbor Density Estimation. Unsupervised clustering. K-Means Clustering. Mean-shift Clustering. Correlation functions. *
 
 
 \* = Time to get your hands dirty!
