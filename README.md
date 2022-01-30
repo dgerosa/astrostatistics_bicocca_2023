@@ -82,11 +82,11 @@ We will make heavy usage of the python programming language. If you need to refr
 - [Python Programming for Scientists"](https://astrofrog.github.io/py4sci/), T. Robitaille et al.
 - ["Learning Scientific Programming with Python"](https://www.cambridge.org/core/books/learning-scientific-programming-with-python/3D264483BC7B380A3059B3861C661237), Hill, Cambridge University Press, 2020. Supporting code: [scipython.com](https://scipython.com/).
 
-## Credits
+## A huge thanks to...
 
 This class draws heavily from many others that came before me. Credit goes to:
 
-- Stephen Taylor (Vanderbilt University), friend and collaborator: [github.com/VanderbiltAstronomy/astr_8070_s21](github.com/VanderbiltAstronomy/astr_8070_s21).
+- Stephen Taylor (Vanderbilt University): [github.com/VanderbiltAstronomy/astr_8070_s21](github.com/VanderbiltAstronomy/astr_8070_s21).
 - Gordon Richards (Drexel University): [github.com/gtrichards/PHYS_440_540](https://github.com/gtrichards/PHYS_440_540).
 - Jake Vanderplas (University of Washington): [github.com/jakevdp/ESAC-stats-2014](https://github.com/jakevdp/ESAC-stats-2014).
 - Zeljko Ivezic (University of Washington): [github.com/uw-astr-302-w18/astr-302-w18](https://github.com/uw-astr-302-w18/astr-302-w18).
