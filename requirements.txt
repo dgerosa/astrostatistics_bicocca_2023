@@ -11,3 +11,4 @@ seaborn
 emcee
 pymc3
 dynesty
+bokeh
