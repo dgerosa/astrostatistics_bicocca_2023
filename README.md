@@ -33,8 +33,9 @@ The use of statistics is ubiquitous in astronomy and astrophysics. Modern advanc
 13) [Introduction II](lectures/L13_introduction.ipynb). Data mining and machine learning. Supervised and unsupervised learning. Overview of scikit-learn. Examples. *
 14) [Density Estimation & Clustering](lectures/L14_clustering.ipynb). Parametric vs non-parametric density estimation. Kernel density estimation. Nearest-Neighbor Density Estimation. Unsupervised clustering. K-Means Clustering. Mean-shift Clustering. Correlation functions. *
 15) [Dimensional Reduction I](lectures/L15_dimensionality.ipynb). Curse of dimensionality. Principal component analysis. Missing data. Non-negative matrix factorization. Independent component analysis. *
-16) [Dimensional Reduction II](lectures/L16_dimensionality.ipynb).
-
+16) [Dimensional Reduction II](lectures/L16_dimensionality.ipynb). Non-linear dimensional reduction. Locally linear embedding. Isometric mapping. t-distributed stochastic neighbor embedding. Data visualization.
+17) [Regression I](lectures/L17_regression.ipynb).
+18) [Regression II](lectures/L18_regression.ipynb).
 
 \* = Time to get your hands dirty!
 
