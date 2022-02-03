@@ -36,6 +36,12 @@ The use of statistics is ubiquitous in astronomy and astrophysics. Modern advanc
 16) [Dimensional Reduction II](lectures/L16_dimensionality.ipynb). Non-linear dimensional reduction. Locally linear embedding. Isometric mapping. t-distributed stochastic neighbor embedding. Data visualization.
 17) [Regression I](lectures/L17_regression.ipynb).
 18) [Regression II](lectures/L18_regression.ipynb).
+19) Classification I
+20) Classification II
+21) Deep learning I
+22) Deep learning II
+23) Time series analysis I
+24) Time series analysis II
 
 \* = Time to get your hands dirty!
 
