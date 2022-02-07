@@ -3,7 +3,7 @@ scipy
 matplotlib
 cython
 astroML
-sklearn
+scikit-learn==0.23.2
 astropy
 corner
 tqdm
