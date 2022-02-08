@@ -36,8 +36,8 @@ The use of statistics is ubiquitous in astronomy and astrophysics. Modern advanc
 16) [Dimensional Reduction II](lectures/L16_dimensionality.ipynb). Non-linear dimensional reduction. Locally linear embedding. Isometric mapping. t-distributed stochastic neighbor embedding. Data visualization.
 17) [Regression I](lectures/L17_regression.ipynb). What is regression? Linear regression. Polynomial regression. Basis function regression. Kernel regression. Over/under fitting. Cross validation. Learning curves. *
 18) [Regression II](lectures/L18_regression.ipynb). Regularization. Ridge. LASSO. Non-linear regression. Gaussian process regression. Total least squares. *
-19) Classification I
-20) Classification II
+19) [Classification I](lectures/L19_regression.ipynb). Generative vs discriminative classification. Receiver Operating Characteristic (ROC) curve. Naive Bayes. Gaussian naive Bayes. Linear and quadratic discriminant analysis. GMM Bayes classification. K-nearest neighbor classifier. *
+20) [Classification II](lectures/L20_regression.ipynb). Logistic regression. Support Vector Machines. Decision trees. Ensemble learning (bagging, random forests, boosting). *
 21) Deep learning I
 22) Deep learning II
 23) Time series analysis I
