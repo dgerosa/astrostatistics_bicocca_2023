@@ -12,4 +12,4 @@ emcee
 pymc3
 dynesty
 bokeh
-h5py
+H5py
