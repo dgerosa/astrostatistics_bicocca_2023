@@ -7,8 +7,7 @@ University of Milano-Bicocca, 2022.
 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dgerosa/astrostatistics_bicocca_2022/HEAD)
-<!-- [![elearning](https://badgen.net/badge/e-learning/open/green)](https://elearning.unimib.it/course/view.php?id=35298) -->
-
+&emsp; [![](https://custom-icon-badges.herokuapp.com/badge/launch-unimib%20virtual%20machine-orange.svg?logo=container&logoColor=white)](https://libaas-lessons.si.unimib.it)
 
 
 ## Aims
