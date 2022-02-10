@@ -37,7 +37,7 @@ The use of statistics is ubiquitous in astronomy and astrophysics. Modern advanc
 17) [Regression I](lectures/L17_regression.ipynb). What is regression? Linear regression. Polynomial regression. Basis function regression. Kernel regression. Over/under fitting. Cross validation. Learning curves. *
 18) [Regression II](lectures/L18_regression.ipynb). Regularization. Ridge. LASSO. Non-linear regression. Gaussian process regression. Total least squares. *
 19) [Classification I](lectures/L19_regression.ipynb). Generative vs discriminative classification. Receiver Operating Characteristic (ROC) curve. Naive Bayes. Gaussian naive Bayes. Linear and quadratic discriminant analysis. GMM Bayes classification. K-nearest neighbor classifier. *
-20) [Classification II](lectures/L20_regression.ipynb). Logistic regression. Support Vector Machines. Decision trees. Ensemble learning (bagging, random forests, boosting). *
+20) [Classification II](lectures/L20_regression.ipynb). Logistic regression. Support vector machines. Decision trees. Bagging. Random forests. Boosting. *
 21) Deep learning I
 22) Deep learning II
 23) Time series analysis I
@@ -82,7 +82,7 @@ There are many **other good resources** in astrostatistics, here is a partial li
     - ["Probability calculus for inference"](https://arxiv.org/abs/1205.4446) [arXiv:1205.4446]
     - ["Using Markov Chain Monte Carlo"](https://arxiv.org/abs/1710.06068) [arXiv:1710.06068]
     - ["Products of multivariate Gaussians in Bayesian inferences"](https://arxiv.org/abs/2005.14199) [arXiv:2005.14199]
-    
+ - ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow"](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/), Geron, O'Reilly Media, 2019.
 
 
 We will make heavy usage of the python programming language. If you need to refresh your **python skills**, here are some catch-up resources and online tutorials. A strong python programming background is essential in modern astrophysics!   
@@ -104,6 +104,6 @@ This class draws heavily from many others that came before me. Credit goes to:
 - Adam Miller (Northwestern University): [github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions).
 - Jo Bovy (University of Toronto): [astro.utoronto.ca/~bovy/teaching.html](http://astro.utoronto.ca/~bovy/teaching.html).
 - Thomas Wiecki (PyMC Labs): [twiecki.github.io/blog/2015/11/10/mcmc-sampling](http://twiecki.github.io/blog/2015/11/10/mcmc-sampling).
-
+- Aurelienne Geron (freelancer):[github.com/ageron/handson-ml2](https://github.com/ageron/handson-ml2).
 
 
