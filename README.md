@@ -104,6 +104,6 @@ This class draws heavily from many others that came before me. Credit goes to:
 - Adam Miller (Northwestern University): [github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions).
 - Jo Bovy (University of Toronto): [astro.utoronto.ca/~bovy/teaching.html](http://astro.utoronto.ca/~bovy/teaching.html).
 - Thomas Wiecki (PyMC Labs): [twiecki.github.io/blog/2015/11/10/mcmc-sampling](http://twiecki.github.io/blog/2015/11/10/mcmc-sampling).
-
+- Aurelienne Geron (freelancer):[github.com/ageron/handson-ml2](https://github.com/ageron/handson-ml2).
 
 
