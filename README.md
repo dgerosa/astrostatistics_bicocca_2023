@@ -10,6 +10,8 @@ University of Milano-Bicocca, 2022.
 <!-- [![elearning](https://badgen.net/badge/e-learning/open/green)](https://elearning.unimib.it/course/view.php?id=35298) -->
 
 
+[![](https://custom-icon-badges.herokuapp.com/badge/launch-unimib%20virtual%20machine-orange.svg?logo=container&logoColor=white)](https://libaas-lessons.si.unimib.it)
+
 
 ## Aims
 
