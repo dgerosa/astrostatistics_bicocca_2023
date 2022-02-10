@@ -12,4 +12,7 @@ emcee
 pymc3
 dynesty
 bokeh
-H5py
+h5py
+tensorflow
+torch
+torchvision
