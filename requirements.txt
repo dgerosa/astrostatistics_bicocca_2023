@@ -16,3 +16,4 @@ h5py
 tensorflow
 torch
 torchvision
+gatspy
