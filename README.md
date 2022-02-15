@@ -37,7 +37,7 @@ The use of statistics is ubiquitous in astronomy and astrophysics. Modern advanc
 18) [Regression II](lectures/L18_regression.ipynb). Regularization. Ridge. LASSO. Non-linear regression. Gaussian process regression. Total least squares. *
 19) [Classification I](lectures/L19_regression.ipynb). Generative vs discriminative classification. Receiver Operating Characteristic (ROC) curve. Naive Bayes. Gaussian naive Bayes. Linear and quadratic discriminant analysis. GMM Bayes classification. K-nearest neighbor classifier. *
 20) [Classification II](lectures/L20_regression.ipynb). Logistic regression. Support vector machines. Decision trees. Bagging. Random forests. Boosting. *
-21) Time series analysis I. Detect a variability. Fourier analysis. Temporally localized signals. Periodic signals.  Lomb-Scargle periodogram. Multiband strategies.
+21) Time series analysis I. Detect a variability. Fourier analysis. Temporally localized signals. Periodic signals.  Lomb-Scargle periodogram. Multiband strategies. *
 22) Time series analysis II. Stochastic processes. Autoregressive models. Moving averages. Power-spectral density. Autocorrelation. White/red/pink noise. Unevenly sampled data.
 23) [Deep learning I](lectures/L23_deeplearning.ipynb). Loss functions. Gradient descent, learning rate. Adaptive boosting. Neural networks. Backpropagation. Layers, neurons, activation functions, regularization schemes. *
 24) [Deep learning II](lectures/L24_deeplearning.ipynb). TensorFlow, keras, and pytorch. Convolutional neural networks. Autoencoders. Generative adversarial networks. *
