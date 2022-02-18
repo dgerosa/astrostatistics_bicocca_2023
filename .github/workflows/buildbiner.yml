@@ -3,15 +3,14 @@ on:
   push:
     branches:
       - main
-
+      
 jobs:
-  trigger-binder-build:
-    runs-on: [ubuntu-latest]
+  Create-MyBinderOrg-Cache:
+    runs-on: ubuntu-latest
     steps:
-      - uses: dgerosa/trigger-mybinder-build@v1.1.1
-        with:
-          target-repo: dgerosa/astrostatistics_bicocca_2022
-          service-name: gh
-          target-state: HEAD
-          use-default-build-servers: true
-          debug: true
+    - name: cache binder build on mybinder.org
+      uses: jupyterhub/repo2docker-action@master
+      with:
+        NO_PUSH: true
+        MYBINDERORG_TAG: ${{ github.event.ref }} # This builds the container on mybinder.org with the branch that was pushed on.
+        IMAGE_NAME: dgerosa/astrostatistics_bicocca_2022
