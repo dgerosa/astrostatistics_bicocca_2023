@@ -8,7 +8,7 @@ jobs:
   trigger-binder-build:
     runs-on: [ubuntu-latest]
     steps:
-      - uses: dgerosa/trigger-mybinder-build@e60aa980afcc7b8c535587c2e921e1bd04aadd4d
+      - uses: dgerosa/trigger-mybinder-build@v1.1.1
         with:
           target-repo: dgerosa/astrostatistics_bicocca_2022
           service-name: gh
