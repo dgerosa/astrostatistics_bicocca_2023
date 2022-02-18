@@ -1,15 +1,17 @@
-name: Binder
+name: 'Trigger-Binder-build'
 on:
   push:
     branches:
       - main
 
 jobs:
-  Create-MyBinderOrg-Cache:
-    runs-on: ubuntu-latest
+  trigger-binder-build:
+    runs-on: [ubuntu-latest]
     steps:
-    - name: cache binder build on mybinder.org
-      uses: machine-learning-apps/repo2docker-action@master
-      with:
-        NO_PUSH: true
-        MYBINDERORG_TAG: main
+      - uses: s-weigand/trigger-mybinder-build@v1
+        with:
+          target-repo: dgerosa/astrostatistics_bicocca_2022
+          service-name: gh
+          target-state: HEAD
+          use-default-build-servers: true
+          debug: true
