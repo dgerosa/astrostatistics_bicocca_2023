@@ -5,11 +5,16 @@ on:
       - main
 
 jobs:
-  Binder:
+  build:
     runs-on: ubuntu-latest
     steps:
-    - name: cache binder build on mybinder.org
-      uses: jupyterhub/repo2docker-action@master
+
+    - name: checkout files in repo
+      uses: actions/checkout@master
+
+    - name: update jupyter dependencies with repo2docker
+      uses: machine-learning-apps/repo2docker-action@master
       with:
-        NO_PUSH: true
-        MYBINDERORG_TAG: HEAD
+        DOCKER_USERNAME: ${{ secrets.DOCKER_USERNAME }}
+        DOCKER_PASSWORD: ${{ secrets.DOCKER_PASSWORD }}
+        MYBINDERORG_CACHE: true
