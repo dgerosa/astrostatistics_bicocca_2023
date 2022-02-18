@@ -1,13 +1,15 @@
-name: 'Trigger-Binder-build'
+name: Binder
 on:
   push:
     branches:
       - main
 
 jobs:
-  trigger-binder-build:
-    runs-on: [ubuntu-latest]
+  Binder:
+    runs-on: ubuntu-latest
     steps:
-      - uses: s-weigand/trigger-mybinder-build@v1
-        with:
-          target-repo: dgerosa/astrostatistics_bicocca_2022/HEAD
+    - name: cache binder build on mybinder.org
+      uses: jupyterhub/repo2docker-action@master
+      with:
+        NO_PUSH: true
+        MYBINDERORG_TAG: ${{ github.event.pull_request.head.ref }}
