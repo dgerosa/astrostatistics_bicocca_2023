@@ -11,6 +11,6 @@ jobs:
     - name: cache binder build on mybinder.org
       uses: jupyterhub/repo2docker-action@master
       with:
-        NO_PUSH: true
         MYBINDERORG_TAG: ${{ github.event.ref }} # This builds the container on mybinder.org with the branch that was pushed on.
         IMAGE_NAME: dgerosa/astrostatistics_bicocca_2022
+        BINDER_CACHE: true
