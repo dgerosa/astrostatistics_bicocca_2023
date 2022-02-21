@@ -106,7 +106,7 @@ This class draws heavily from many others that came before me. Credit goes to:
 - Aurelienne Geron (freelancer): [github.com/ageron/handson-ml2](https://github.com/ageron/handson-ml2).
 
 
-## Careful before you start...
+## Careful...
 
 <p align="center">
   <img src="https://imgs.xkcd.com/comics/data_trap.png" />
