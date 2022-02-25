@@ -1,6 +1,6 @@
 # Astrostatistics 
 
-[Davide Gerosa](www.davidegerosa.com)  - davide.gerosa@unimib.it  
+[Davide Gerosa](https://davidegerosa.com/)  - davide.gerosa@unimib.it  
 University of Milano-Bicocca, 2022.
 
 
