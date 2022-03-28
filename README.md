@@ -27,8 +27,8 @@ The use of statistics is ubiquitous in astronomy and astrophysics. Modern advanc
 8. [Bayesian Statistical Inference: I](lectures/L08_bayesian.ipynb). The Bayesian approach to statistics. Prior distributions. Credible regions. Parameter estimation examples (coin flip). Marginalization.
 9. [Bayesian Statistical Inference: II](lectures/L09_bayesian.ipynb) Parameter estimation examples (Gaussian data, background). Model comparison: odds ratio. Approximate model comparison.
 10. [Bayesian Statistical Inference: III](lectures/L10_bayesian.ipynb). Monte Carlo methods. Markov chains. Burn-in. Metropolis-Hastings algorithm.  *
-11. [Bayesian Statistical Inference: IV](lectures/L11_bayesian.ipynb). MCMC diagnostics. Traceplots. Autocorrelation lenght. Samplers in practice: emcee and PyMC3 *
-12. [Bayesian Statistical Inference: V](lectures/L12_bayesian.ipynb). Gibbs sampling. Conjugate priors. Evidence evaluation. Model selection. Nested sampling. Samplers in practice: dynesty. * 
+11. [Bayesian Statistical Inference: IV](lectures/L11_bayesian.ipynb). MCMC diagnostics. Traceplots. Autocorrelation lenght. Samplers in practice: emcee and PyMC3. Gibbs sampling. Conjugate priors.  *
+12. [Bayesian Statistical Inference: V](lectures/L12_bayesian.ipynb). Evidence evaluation. Model selection. Nested sampling. Samplers in practice: dynesty. * 
 13. [Introduction II](lectures/L13_introduction.ipynb). Data mining and machine learning. Supervised and unsupervised learning. Overview of scikit-learn. Examples. *
 14. [Density Estimation & Clustering](lectures/L14_clustering.ipynb). Parametric vs non-parametric density estimation. Kernel density estimation. Nearest-Neighbor Density Estimation. Unsupervised clustering. K-Means Clustering. Mean-shift Clustering. Correlation functions. *
 15. [Dimensional Reduction I](lectures/L15_dimensionality.ipynb). Curse of dimensionality. Principal component analysis. Missing data. Non-negative matrix factorization. Independent component analysis. *
