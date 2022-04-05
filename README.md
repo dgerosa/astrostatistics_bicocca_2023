@@ -30,7 +30,7 @@ The use of statistics is ubiquitous in astronomy and astrophysics. Modern advanc
 11. [Bayesian Statistical Inference: IV](lectures/L11_bayesian.ipynb). MCMC diagnostics. Traceplots. Autocorrelation lenght. Samplers in practice: emcee and PyMC3. Gibbs sampling. Conjugate priors.  *
 12. [Bayesian Statistical Inference: V](lectures/L12_bayesian.ipynb). Evidence evaluation. Model selection. Nested sampling. Samplers in practice: dynesty. * 
 13. [Introduction II](lectures/L13_introduction.ipynb). Data mining and machine learning. Supervised and unsupervised learning. Overview of scikit-learn. Examples. *
-14. [Density Estimation & Clustering](lectures/L14_clustering.ipynb). Parametric vs non-parametric density estimation. Kernel density estimation. Nearest-Neighbor Density Estimation. Unsupervised clustering. K-Means Clustering. Mean-shift Clustering. Correlation functions. *
+14. [Clustering](lectures/L14_clustering.ipynb). Unsupervised clustering. K-Means Clustering. Mean-shift Clustering. Correlation functions. *
 15. [Dimensional Reduction I](lectures/L15_dimensionality.ipynb). Curse of dimensionality. Principal component analysis. Missing data. Non-negative matrix factorization. Independent component analysis. *
 16. [Dimensional Reduction II](lectures/L16_dimensionality.ipynb). Non-linear dimensional reduction. Locally linear embedding. Isometric mapping. t-distributed stochastic neighbor embedding. Data visualization.
 17. [Regression I](lectures/L17_regression.ipynb). What is regression? Linear regression. Polynomial regression. Basis function regression. Kernel regression. Over/under fitting. Cross validation. Learning curves. *
