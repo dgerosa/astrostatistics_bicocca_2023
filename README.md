@@ -32,15 +32,18 @@ The use of statistics is ubiquitous in astronomy and astrophysics. Modern advanc
 13. [Introduction II](lectures/L13_introduction.ipynb). Data mining and machine learning. Supervised and unsupervised learning. Overview of scikit-learn. Examples. *
 14. [Clustering](lectures/L14_clustering.ipynb). K-fold cross validation. Unsupervised clustering. K-Means Clustering. Mean-shift Clustering. Correlation functions. *
 15. [Dimensional Reduction I](lectures/L15_dimensionality.ipynb). Curse of dimensionality. Principal component analysis. Missing data. Non-negative matrix factorization. Independent component analysis. *
-16. [Dimensional Reduction II](lectures/L16_dimensionality.ipynb). Non-linear dimensional reduction. Locally linear embedding. Isometric mapping. t-distributed stochastic neighbor embedding. Data visualization.
+16. [Dimensional Reduction II - Density estimation](lectures/L16_dimensionality.ipynb). Non-linear dimensional reduction. Locally linear embedding. Isometric mapping. t-distributed stochastic neighbor embedding. Data visualization. Recap of density estimation. KDE. Nearest-Neighbor. Gaussian Mixtures.
 17. [Regression I](lectures/L17_regression.ipynb). What is regression? Linear regression. Polynomial regression. Basis function regression. Kernel regression. Over/under fitting. Cross validation. Learning curves. *
 18. [Regression II](lectures/L18_regression.ipynb). Regularization. Ridge. LASSO. Non-linear regression. Gaussian process regression. Total least squares. *
 19. [Classification I](lectures/L19_classification.ipynb). Generative vs discriminative classification. Receiver Operating Characteristic (ROC) curve. Naive Bayes. Gaussian naive Bayes. Linear and quadratic discriminant analysis. GMM Bayes classification. K-nearest neighbor classifier. *
 20. [Classification II](lectures/L20_classification.ipynb). Logistic regression. Support vector machines. Decision trees. Bagging. Random forests. Boosting. *
-21. [Time series analysis I](lectures/L21_timeseries.ipynb). Detect a variability. Fourier analysis. Temporally localized signals. Periodic signals.  Lomb-Scargle periodogram. Multiband strategies. *
-22. [Time series analysis II](lectures/L22_timeseries.ipynb). Stochastic processes. Autoregressive models. Moving averages. Power-spectral density. Autocorrelation. White/red/pink noise. Unevenly sampled data.
-23. [Deep learning I](lectures/L23_deeplearning.ipynb). Loss functions. Gradient descent, learning rate. Adaptive boosting. Neural networks. Backpropagation. Layers, neurons, activation functions, regularization schemes. *
-24. [Deep learning II](lectures/L24_deeplearning.ipynb). TensorFlow, keras, and pytorch. Convolutional neural networks. Autoencoders. Generative adversarial networks. *
+21. [Deep learning I](lectures/L23_deeplearning.ipynb). Loss functions. Gradient descent, learning rate. Adaptive boosting. Neural networks. Backpropagation. Layers, neurons, activation functions, regularization schemes. *
+22. [Deep learning II](lectures/L24_deeplearning.ipynb). TensorFlow, keras, and pytorch. Convolutional neural networks. Autoencoders. Generative adversarial networks. *
+
+##### Additional lectures not covered in class
+
+23. [Time series analysis I](lectures/L21_timeseries.ipynb). Detect a variability. Fourier analysis. Temporally localized signals. Periodic signals.  Lomb-Scargle periodogram. Multiband strategies. *
+24. [Time series analysis II](lectures/L22_timeseries.ipynb). Stochastic processes. Autoregressive models. Moving averages. Power-spectral density. Autocorrelation. White/red/pink noise. Unevenly sampled data.
 
 \* = Time to get your hands dirty!
 
