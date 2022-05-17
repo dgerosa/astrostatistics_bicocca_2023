@@ -42,8 +42,8 @@ The use of statistics is ubiquitous in astronomy and astrophysics. Modern advanc
 
 ##### Additional lectures not covered in class
 
-23. [Time series analysis I](lectures/L21_timeseries.ipynb). Detect a variability. Fourier analysis. Temporally localized signals. Periodic signals.  Lomb-Scargle periodogram. Multiband strategies. *
-24. [Time series analysis II](lectures/L22_timeseries.ipynb). Stochastic processes. Autoregressive models. Moving averages. Power-spectral density. Autocorrelation. White/red/pink noise. Unevenly sampled data.
+23. [Time series analysis I](lectures/extra/L21_timeseries.ipynb). Detect a variability. Fourier analysis. Temporally localized signals. Periodic signals.  Lomb-Scargle periodogram. Multiband strategies. *
+24. [Time series analysis II](lectures/extra/L22_timeseries.ipynb). Stochastic processes. Autoregressive models. Moving averages. Power-spectral density. Autocorrelation. White/red/pink noise. Unevenly sampled data.
 
 \* = Time to get your hands dirty!
 
