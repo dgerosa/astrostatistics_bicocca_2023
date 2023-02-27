@@ -51,6 +51,8 @@ The use of statistics is ubiquitous in astronomy and astrophysics. Modern advanc
 
 Data mining and machine learning are computational subjects. One does not understand how to treat scientific data by reading equations on the blackboard: you will need to get your hands dirty (and this is the fun part!). **Students are required to come to classes with a laptop** or any device where you can code on (larger than a smartphone I would say...). Each class will pair theoretical explanations to hands-on exercises and demonstrations. These are the key content of the course, so please engage with them as much a possible. 
 
+At various points during the lectures you fill find some **"Time to get your hands dirty"** statements. That means you got to start coding! 
+
 
 ## Conceptual map of the class
 
