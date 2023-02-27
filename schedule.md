@@ -4,12 +4,12 @@ Our weekly timeslots are Wednesday at 10.30am-12.30pm and Friday at 8.30am-10.30
 
 Here is the class calendar (note a few extra lectures on different days/times as well as few weeks where we're going to skip classes).
 
- - **[1-2] 28-02-23, 10.30am.**
- - **[3-4] 03-03-23, 8.30am.**
- - **[4-5] 07-03-23, 10.30am.**
- - **[6-7] 10-03-23, 8.30am.**
- - **[7-8] 14-03-23, 10.30am.**
- - **[9-10] 15-03-23, 8.30am.** *Note different day*
+ - **[01-02] 28-02-23, 10.30am.**
+ - **[03-04] 03-03-23, 8.30am.**
+ - **[04-05] 07-03-23, 10.30am.**
+ - **[06-07] 10-03-23, 8.30am.**
+ - **[07-08] 14-03-23, 10.30am.**
+ - **[09-10] 15-03-23, 8.30am.** *Note different day*
  - **[11-12] 16-03-23, 10.30am.** *Note different day*
  - **[13-14] 17-03-23, 8.30am.**
  - 21-03-23 *No lecture, Davide is away for research*
