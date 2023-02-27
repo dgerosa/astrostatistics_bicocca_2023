@@ -58,6 +58,9 @@ Data mining and machine learning are computational subjects. One does not unders
 
 Credits: [Steve Taylor](https://stevertaylor.github.io/) (Vanderbilt)
 
+## Schedule
+
+This year's schedule and lecture skeleon is available [here](schedule.md)
 
 
 ## Textbook and Resources
