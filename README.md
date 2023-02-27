@@ -60,7 +60,7 @@ Credits: [Steve Taylor](https://stevertaylor.github.io/) (Vanderbilt)
 
 ## Schedule
 
-This year's schedule and lecture skeleton is available [here](schedule.md)
+The class covers 6 credits = 42 hours = 21 lectures of 2 hours each. This year's schedule and lecture skeleton is available [here](schedule.md)
 
 
 ## Textbook and Resources
