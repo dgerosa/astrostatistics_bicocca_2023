@@ -1,4 +1,4 @@
-### 2023 class schedule.
+# 2023 class schedule.
 
 Our weekly timeslots are Wednesday at 10.30am-12.30pm and Friday at 8.30am-10.30am. We're in room U2-05 on the main Bicocca campus.
 
