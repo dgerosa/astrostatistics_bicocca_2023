@@ -4,7 +4,7 @@ Our weekly timeslots are Wednesday at 10.30am-12.30pm and Friday at 8.30am-10.30
 
 Here is the class calendar (note a few extra lectures on different days/times as well as few weeks where we're going to skip classes).
 
- - **[01-02] 28-02-23, 10.30am.**
+ - **[01-02] 28-02-23, 10.30am.** Introduction. What machine learning is about. My research interest. IT setup. Version control with git.
  - **[03-04] 03-03-23, 8.30am.**
  - **[04-05] 07-03-23, 10.30am.**
  - **[06-07] 10-03-23, 8.30am.**
