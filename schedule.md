@@ -8,10 +8,10 @@ Here is the class calendar (note a few extra lectures on different days/times as
  - **[03-04] 03-03-23, 8.30am.** L02 - Probability and statistics I
  - **[04-05] 07-03-23, 10.30am.** L03 - Probability and statistics II
  - **[06-07] 10-03-23, 8.30am.** L04 - Probability and statistics III
- - **[07-08] 14-03-23, 10.30am.**
- - **[09-10] 15-03-23, 8.30am.** *Note different day*
- - **[11-12] 16-03-23, 10.30am.** *Note different day*
- - **[13-14] 17-03-23, 8.30am.**
+ - **[07-08] 14-03-23, 10.30am.** L05 - Frequentist Statistical Inference I
+ - **[09-10] 15-03-23, 8.30am.** *Note different day* L06 - Frequentist Statistical Inference II
+ - **[11-12] 16-03-23, 10.30am.** *Note different day* L07 - Frequentist Statistical Inference III
+ - **[13-14] 17-03-23, 8.30am.** L08 - Bayesian Statistical Inference I
  - 21-03-23 *No lecture, Davide is away for research*
  - 24-03-23 *No lecture, Davide is away for research*
  - **[15-16] 28-03-23, 10.30am.**
