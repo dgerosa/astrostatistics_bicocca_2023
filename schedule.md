@@ -4,10 +4,10 @@ Our weekly timeslots are Wednesday at 10.30am-12.30pm and Friday at 8.30am-10.30
 
 Here is the class calendar (note a few extra lectures on different days/times as well as few weeks where we're going to skip classes).
 
- - **[01-02] 28-02-23, 10.30am.** Introduction. What machine learning is about. My research interest. IT setup. Version control with git.
- - **[03-04] 03-03-23, 8.30am.** Basic notions of probability and statistics. Conditional probability. Bayes theorem. Coding problem: Monty-Hall.
- - **[04-05] 07-03-23, 10.30am.** Monte Carlo integrals. Descriptive statistics. Common distributions. Coding problem: Integrals and Prussian horses.
- - **[06-07] 10-03-23, 8.30am.**
+ - **[01-02] 28-02-23, 10.30am.** L01 - Introduction I
+ - **[03-04] 03-03-23, 8.30am.** L02 - Probability and statistics I
+ - **[04-05] 07-03-23, 10.30am.** L03 - Probability and statistics II
+ - **[06-07] 10-03-23, 8.30am.** L04 - Probability and statistics III
  - **[07-08] 14-03-23, 10.30am.**
  - **[09-10] 15-03-23, 8.30am.** *Note different day*
  - **[11-12] 16-03-23, 10.30am.** *Note different day*
