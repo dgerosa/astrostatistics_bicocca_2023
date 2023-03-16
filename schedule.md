@@ -14,10 +14,10 @@ Here is the class calendar (note a few extra lectures on different days/times as
  - **[13-14] 17-03-23, 8.30am.** L08 - Bayesian Statistical Inference I
  - 21-03-23 *No lecture, Davide is away for research.*
  - 24-03-23 *No lecture, Davide is away for research.*
- - **[15-16] 28-03-23, 10.30am.**
- - **[17-18] 31-03-23, 8.30am.**
- - **[19-20] 04-04-23, 10.30am.**
- - **[21-22] 05-04-23, 8.30am.** *Note different day.*
+ - **[15-16] 28-03-23, 10.30am.** L09 - Bayesian Statistical Inference II
+ - **[17-18] 31-03-23, 8.30am.** L10 - Bayesian Statistical Inference III
+ - **[19-20] 04-04-23, 10.30am.** L11 - Bayesian Statistical Inference IV
+ - **[21-22] 05-04-23, 8.30am.** *Note different day.* L12 - Bayesian Statistical Inference V
  - 14-04-23 *No lecture, Davide is away for research.*
  - 18-04-23 *No lecture, Davide is away for research.*
  - **[23-24] 21-04-23, 8.30am.**
