@@ -20,15 +20,15 @@ Here is the class calendar (note a few extra lectures on different days/times as
  - **[21-22] 05-04-23, 8.30am.** *Note different day.* L12 - Bayesian Statistical Inference V
  - 14-04-23 *No lecture, Davide is away for research.*
  - 18-04-23 *No lecture, Davide is away for research.*
- - **[23-24] 21-04-23, 8.30am.**
- - **[25-26] 28-04-23, 8.30am.**
- - **[27-28] 02-05-23, 10.30am.**
- - **[29-30] 03-05-23, 8.30am.** *Note different day.*
- - **[31-32] 04-05-23, 10.30am.** *Note different day.*
- - **[33-34] 05-05-23, 8.30am.**
- - **[35-36] 09-05-23, 10.30am.**
- - **[37-38] 12-05-23, 8.30am.**
- - **[39-40] 16-05-23, 10.30am.**
- - **[41-42] 19-05-23, 8.30am.**
+ - **[23-24] 21-04-23, 8.30am.** L13 - Introduction II
+ - **[25-26] 28-04-23, 8.30am.** L14 - Clustering
+ - **[27-28] 02-05-23, 10.30am.** L15 - Dimensional Reduction I
+ - **[29-30] 03-05-23, 8.30am.** *Note different day.* L16 - Dimensional Reduction II - Density estimation
+ - **[31-32] 04-05-23, 10.30am.** *Note different day.* L17 - Regression I
+ - **[33-34] 05-05-23, 8.30am.** L18 - Regression II
+ - **[35-36] 09-05-23, 10.30am.** L19 - Classification I
+ - **[37-38] 12-05-23, 8.30am.** L20 - Classification II
+ - **[39-40] 16-05-23, 10.30am.** L21 - Deep Learning I
+ - **[41-42] 19-05-23, 8.30am.** L22 - Deep Learning II
  - 23-05-23 *Extra slot in case we miss one...*
  - 26-05-23 *Extra slot in case we miss one...*
